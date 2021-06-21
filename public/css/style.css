@@ -1,0 +1,68 @@
+.navbar {
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+}
+.navbar a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.auth {
+    margin-top: 15px;
+    display:flex;
+    justify-content: flex-end;
+}
+.welcome {
+    display:flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.container {
+    max-width: 900px;
+    margin:0  auto;
+    margin-top: 50px;
+}
+.exit {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.link_orders {
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+.orders-header {
+    font-size: 36px;
+    font-weight: bold;
+}
+.img_orders {
+    width:60px;
+    height: 54px;
+}
+.name_orders {
+    font-size: 25px;
+    color:black;
+    font-weight: bold;
+}
+.order_moderating {
+    padding: 10px 10px 10px 10px;
+    max-width: 200px;
+}
+.border_black {
+    border: black solid 1px;
+}
+
+.underline-bold {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.status-order {
+    display:flex;
+    gap: 15px;
+}
+.padding10 {
+    padding-top: 10px;
+}
